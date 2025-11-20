@@ -1,3 +1,6 @@
+
+                                                                                      //Calculation of Test Average//
+
 ➡️Aim:
 
  //To write a Python program that accepts marks of three tests from the user and calculates the best of two test average.//
